@@ -1,0 +1,11 @@
+day_id,day_number,date,city,country,iconic_landmark,landmark_image_url
+D01,1,2026-06-01,London,United Kingdom,Big Ben and the Elizabeth Tower,"https://commons.wikimedia.org/wiki/Special:Redirect/file/The_Big_Ben_Clock_Tower_in_London,_UK.jpg"
+D02,2,2026-06-02,Paris,France,Eiffel Tower,https://commons.wikimedia.org/wiki/Special:Redirect/file/Eiffel_Tower_Paris.jpg
+D03,3,2026-06-03,Brussels,Belgium,Atomium,https://commons.wikimedia.org/wiki/Special:Redirect/file/Atomium_bruxelles.jpg
+D04,4,2026-06-04,Amsterdam,Netherlands,Canal houses and canal bridge,"https://commons.wikimedia.org/wiki/Special:Redirect/file/Canal_view_in_Amsterdam_downtown_with_old_brick_bridge_over_the_water_of_Reguliersgracht;_free_photo_by_Fons_Heijnsbroek,_january_2022.jpg"
+D05,5,2026-06-05,Berlin,Germany,Brandenburg Gate,https://commons.wikimedia.org/wiki/Special:Redirect/file/Brandenburg_Gate.jpg
+D06,6,2026-06-06,Prague,Czech Republic,Charles Bridge,"https://commons.wikimedia.org/wiki/Special:Redirect/file/Prague,_Charles_Bridge.jpg"
+D07,7,2026-06-07,Vienna,Austria,Schönbrunn Palace,https://commons.wikimedia.org/wiki/Special:Redirect/file/Schonbrunn_Palace.jpg
+D08,8,2026-06-08,Budapest,Hungary,Hungarian Parliament Building,https://commons.wikimedia.org/wiki/Special:Redirect/file/HungarianParliamentBuilding.jpg
+D09,9,2026-06-09,Venice,Italy,Rialto Bridge,"https://commons.wikimedia.org/wiki/Special:Redirect/file/Rialto_bridge_from_west,_Venice.jpg"
+D10,10,2026-06-10,Rome,Italy,Colosseum,https://commons.wikimedia.org/wiki/Special:Redirect/file/Colosseum_(Rome).jpg

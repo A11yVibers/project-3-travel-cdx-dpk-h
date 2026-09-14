@@ -1,0 +1,82 @@
+day_id,expense_order,category,subcategory,description,amount_usd
+D01,1,lodging,hotel,Central London hotel,245.0
+D01,2,food,breakfast,Airport breakfast,18.0
+D01,3,food,lunch,South Bank lunch,27.0
+D01,4,food,dinner,Covent Garden dinner,48.0
+D01,5,entertainment,sightseeing,Westminster Abbey admission,36.0
+D01,6,travel,public transit,Elizabeth line and Underground,22.0
+D01,7,travel,taxi,Late taxi to hotel,24.0
+D02,1,lodging,hotel,Paris hotel,230.0
+D02,2,food,breakfast,Station breakfast,16.0
+D02,3,food,lunch,Louvre-area café,31.0
+D02,4,food,dinner,Montmartre dinner,52.0
+D02,5,entertainment,museum,Louvre admission,25.0
+D02,6,entertainment,sightseeing,Eiffel Tower ticket,39.0
+D02,7,travel,public transit,Eurostar London to Paris,118.0
+D02,8,travel,public transit,Paris Metro day travel,18.0
+D03,1,lodging,hotel,Brussels hotel,175.0
+D03,2,food,breakfast,Bakery breakfast,14.0
+D03,3,food,lunch,Grand Place lunch,26.0
+D03,4,food,dinner,Sablon dinner,44.0
+D03,5,entertainment,sightseeing,Atomium admission,19.0
+D03,6,entertainment,food experience,Chocolate tasting,28.0
+D03,7,travel,public transit,Train Paris to Brussels,72.0
+D03,8,travel,public transit,Metro and tram,12.0
+D04,1,lodging,hotel,Amsterdam canal district hotel,260.0
+D04,2,food,breakfast,Station breakfast,15.0
+D04,3,food,lunch,Jordaan lunch,30.0
+D04,4,food,dinner,Canal Belt dinner,49.0
+D04,5,entertainment,museum,Rijksmuseum admission,27.0
+D04,6,entertainment,cruise,Evening canal cruise,31.0
+D04,7,travel,public transit,Train Brussels to Amsterdam,64.0
+D04,8,travel,public transit,Tram and metro,14.0
+D05,1,lodging,hotel,Berlin hotel,190.0
+D05,2,food,breakfast,Airport breakfast,14.0
+D05,3,food,lunch,Museum Island lunch,24.0
+D05,4,food,dinner,Kreuzberg dinner,38.0
+D05,5,entertainment,museum,Museum Island pass,28.0
+D05,6,travel,plane,Flight Amsterdam to Berlin,126.0
+D05,7,travel,public transit,Airport express and U-Bahn,17.0
+D05,8,travel,taxi,Evening taxi,21.0
+D06,1,lodging,hotel,Prague Old Town hotel,150.0
+D06,2,food,breakfast,Train station breakfast,12.0
+D06,3,food,lunch,Old Town lunch,22.0
+D06,4,food,dinner,Malá Strana dinner,35.0
+D06,5,entertainment,sightseeing,Old Town tower admission,14.0
+D06,6,entertainment,tour,Historic walking tour,24.0
+D06,7,travel,public transit,Train Berlin to Prague,58.0
+D06,8,travel,public transit,Metro and tram,9.0
+D07,1,lodging,hotel,Vienna hotel,205.0
+D07,2,food,breakfast,Train breakfast,13.0
+D07,3,food,lunch,Schönbrunn lunch,28.0
+D07,4,food,dinner,Pre-opera dinner,46.0
+D07,5,entertainment,sightseeing,Schönbrunn Palace ticket,34.0
+D07,6,entertainment,performance,Vienna State Opera ticket,78.0
+D07,7,travel,public transit,Train Prague to Vienna,46.0
+D07,8,travel,public transit,U-Bahn and tram,11.0
+D08,1,lodging,hotel,Budapest hotel,165.0
+D08,2,food,breakfast,Station breakfast,11.0
+D08,3,food,lunch,Castle District lunch,23.0
+D08,4,food,dinner,Danube Promenade dinner,39.0
+D08,5,entertainment,sightseeing,Fisherman's Bastion and church,18.0
+D08,6,entertainment,spa,Széchenyi Thermal Bath,42.0
+D08,7,travel,public transit,Train Vienna to Budapest,38.0
+D08,8,travel,public transit,Metro and tram,8.0
+D08,9,travel,taxi,Taxi back from baths,17.0
+D09,1,lodging,hotel,Venice hotel,285.0
+D09,2,food,breakfast,Airport breakfast,13.0
+D09,3,food,lunch,St. Mark's lunch,34.0
+D09,4,food,dinner,Canal-side dinner,58.0
+D09,5,entertainment,sightseeing,St. Mark's Basilica and museum,22.0
+D09,6,entertainment,sightseeing,Doge's Palace admission,32.0
+D09,7,travel,plane,Flight Budapest to Venice,142.0
+D09,8,travel,public transit,Airport bus and vaporetto,29.0
+D10,1,lodging,hotel,Rome hotel,220.0
+D10,2,food,breakfast,Station breakfast,14.0
+D10,3,food,lunch,Colosseum-area lunch,29.0
+D10,4,food,dinner,Trastevere final dinner,54.0
+D10,5,entertainment,sightseeing,Colosseum and Roman Forum ticket,30.0
+D10,6,entertainment,tour,Historic center guided walk,26.0
+D10,7,travel,public transit,High-speed train Venice to Rome,86.0
+D10,8,travel,public transit,Rome Metro and bus,10.0
+D10,9,travel,taxi,Taxi to hotel with luggage,19.0

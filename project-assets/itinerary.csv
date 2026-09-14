@@ -1,0 +1,41 @@
+day_id,item_order,time,place,activity
+D01,1,09:00,Heathrow Airport,Arrive in London and travel to the hotel
+D01,2,11:30,Westminster,"Walk past Big Ben, Parliament Square, and Westminster Abbey"
+D01,3,14:30,South Bank,Walk along the Thames and visit the riverside market
+D01,4,18:30,Covent Garden,Dinner and evening walk through the market district
+D02,1,08:00,St Pancras International,Take the morning train from London to Paris
+D02,2,12:00,Louvre Museum,Explore the museum and surrounding courtyards
+D02,3,16:00,Eiffel Tower,Visit the tower and walk through Champ de Mars
+D02,4,20:00,Montmartre,Dinner and sunset walk near Sacré-Cœur
+D03,1,08:30,Gare du Nord,Travel by train from Paris to Brussels
+D03,2,11:00,Grand Place,Explore the central square and historic streets
+D03,3,14:30,Atomium,Visit the Atomium and surrounding park
+D03,4,18:30,Sablon,Belgian chocolate tasting and dinner
+D04,1,08:30,Brussels-Midi,Travel by train from Brussels to Amsterdam
+D04,2,12:00,Jordaan,Lunch and walking tour along the canals
+D04,3,15:00,Rijksmuseum,Visit the museum and Museumplein
+D04,4,19:00,Canal Belt,Evening canal cruise
+D05,1,07:30,Amsterdam Schiphol Airport,Fly from Amsterdam to Berlin
+D05,2,11:30,Brandenburg Gate,Explore Pariser Platz and the Reichstag area
+D05,3,14:30,Museum Island,Visit museums and walk along the Spree
+D05,4,19:00,Kreuzberg,Dinner and neighborhood walk
+D06,1,08:00,Berlin Hauptbahnhof,Travel by train from Berlin to Prague
+D06,2,13:00,Old Town Square,See the Astronomical Clock and explore Old Town
+D06,3,16:00,Charles Bridge,Walk across the bridge toward Malá Strana
+D06,4,19:30,Malá Strana,Traditional Czech dinner
+D07,1,08:30,Praha hlavní nádraží,Travel by train from Prague to Vienna
+D07,2,13:00,Schönbrunn Palace,Tour the palace and gardens
+D07,3,16:30,Historic Centre,Walk around Stephansplatz and Graben
+D07,4,20:00,Vienna State Opera,Attend an evening performance
+D08,1,08:30,Wien Hauptbahnhof,Travel by train from Vienna to Budapest
+D08,2,12:30,Buda Castle,Explore Castle Hill and Fisherman's Bastion
+D08,3,16:00,Széchenyi Thermal Bath,Spend the afternoon at the thermal baths
+D08,4,20:00,Danube Promenade,Dinner followed by an evening river walk
+D09,1,07:00,Budapest Airport,Fly from Budapest to Venice
+D09,2,11:30,St. Mark's Square,Visit the basilica and explore the square
+D09,3,15:00,Rialto Bridge,Walk through Rialto Market and cross the bridge
+D09,4,18:30,Grand Canal,Take a vaporetto ride and have dinner by the canal
+D10,1,07:30,Venezia Santa Lucia,Travel by high-speed train from Venice to Rome
+D10,2,12:30,Colosseum,Tour the Colosseum and Roman Forum
+D10,3,16:30,Trevi Fountain,Walk through the historic center to the fountain
+D10,4,19:30,Trastevere,Final dinner and evening walk
